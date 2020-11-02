@@ -10,7 +10,7 @@ namespace exiaA2_projet
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Bonjour Les A2");
         }
     }
 }
